@@ -1,2 +1,3 @@
 # notesapi
-API for notes App
+
+API for notes App using Django REST Framework.
